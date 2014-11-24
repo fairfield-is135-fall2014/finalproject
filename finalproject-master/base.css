@@ -1,0 +1,113 @@
+body {
+  background-color: #e9edd7;
+ margin: 0;
+  
+}
+
+#page-wrapper {
+  width: 100%;
+  background-color: white; 
+}
+
+
+#page-header {
+  margin-top:-20px;
+  position: relative, center;
+  width: 100%;
+  background: #c8102e; 
+  height: 150px;  
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 140%;
+    position: relative;
+    padding: 10px;
+    padding-top:20px;
+    margin: 15px;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 140%;
+    float: left;
+    margin: 10px;
+   
+}
+
+#topnav li {
+    display: inline;
+    position: fixed; 
+    float: right;       
+    top: 10px;
+    right: 50px;
+   
+}
+
+#nav li {
+  display: inline;
+  float: right;
+  margin: 5px;
+ }
+
+a {
+    height: 50px;
+    width: 70px;
+    background-color: #c8102e;
+    color: #ffffff;
+}
+
+#search {
+  vertical-align: middle;
+  height: center;
+  position: relative;
+  float: right;
+  padding-right: 0px;
+  
+}
+
+#img {
+   display: center;
+   width: 100%;
+   height: 475px;
+}
+
+#ctit {
+  text-decoration: color: black;
+  font-size: 140%;
+  margin-left: 130px;
+}
+
+#cal {
+  float: left;
+  top: 0%;
+  text-align: inline-box;
+   width: 300px;
+   padding: 25px;
+   border: 5px solid #c8102e;
+   margin: 5px;
+   margin-right: 100px;
+}
+
+#foot {
+  position: relative, center;
+  background: #c8102e; 
+  height: 75px;
+  width: 100%;
+}
+
+#twitter {
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
